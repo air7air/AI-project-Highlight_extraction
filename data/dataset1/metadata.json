@@ -1,0 +1,36 @@
+{
+    "created": "2020-12-18 15:37:08.814128",
+    "config": {
+        "segment_length": 3.0,
+        "video_sample_rate": 6.0,
+        "video_width": 128,
+        "video_height": 128,
+        "audio_sample_rate": 22050,
+        "apply_mfcc": true
+    },
+    "data_shape": {
+        "video": [
+            18,
+            128,
+            128,
+            3
+        ],
+        "audio": [
+            40,
+            130
+        ]
+    },
+    "total_segment_count": 2409,
+    "segment_counts": {
+        "20201003_DWG_JDG_1": 125,
+        "20201005_DWG_PSG_1": 105,
+        "20201009_DWG_RGE_1": 171,
+        "20201015_DWG_DRX_1": 220,
+        "20201015_DWG_DRX_2": 257,
+        "20201015_DWG_DRX_3": 264,
+        "20201031_DWG_SN_1": 386,
+        "20201031_DWG_SN_2": 362,
+        "20201031_DWG_SN_3": 360,
+        "20201031_DWG_SN_4": 159
+    }
+}
